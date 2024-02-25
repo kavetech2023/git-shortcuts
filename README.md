@@ -1,4 +1,4 @@
-<h1>All the shortcuts you need to navigate git!</h1>
+<h1>`All the shortcuts` you need to navigate git!</h1>
 <table>
   <tr>
     <th><img src="/path/to/your/image.png" alt="[Image description]"></th>
@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
-    <td>* `git init`</td>
+    <td>* git init</td>
     <td>Initializes a new Git repository in the current directory.</td>
   </tr>
    <tr>
