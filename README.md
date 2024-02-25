@@ -1,4 +1,4 @@
-<h1>`All the shortcuts` you need to navigate git!</h1>
+<h1>Git made EASY!</h1>
 <table>
   <tr>
     <th>Code</th>
