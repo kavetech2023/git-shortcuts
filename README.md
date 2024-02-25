@@ -60,7 +60,6 @@
     <td>Pushes your local commits to the remote repository.</td>
   </tr>
   </table>
-
     <h1>Undoing and Redoing:</h1>
   
 <table>
