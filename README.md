@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
-    <td>```git init</td>
+    <td>```git init```</td>
     <td>Initializes a new Git repository in the current directory.</td>
   </tr>
    <tr>
