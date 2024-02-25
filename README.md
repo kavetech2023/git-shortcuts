@@ -73,3 +73,61 @@
     <td>Pushes your local commits to the remote repository.</td>
   </tr>
   </table>
+
+    <h1>Undoing and Redoing:</h1>
+  
+<table>
+  <tr>
+    <th><img src="/path/to/your/image.png" alt="[Image description]"></th>
+    <th>Description</th>
+    <th>Remarks</th>
+  </tr>
+  <tr>
+    <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
+    <td>git reset HEAD <filename></td>
+    <td>Creates a new branch.</td>
+  </tr>
+   <tr>
+    <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
+    <td>git checkout <branch_name></td>
+    <td>Unstages a file from the staging area. (Unmodified working directory)</td>
+  </tr>
+       </tr>
+   <tr>
+    <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
+    <td>git checkout <filename></td>
+    <td>Discards changes made to a file in the working directory. (Unmodified staging area)</td>
+  </tr>
+       <tr>
+    <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
+    <td>git revert <commit_hash></td>
+    <td>Creates a new commit that reverts the changes introduced by a specific commit.</td>
+  </tr>
+  </table>
+
+  <h1>Stashing:</h1>
+  
+<table>
+  <tr>
+    <th><img src="/path/to/your/image.png" alt="[Image description]"></th>
+    <th>Description</th>
+    <th>Remarks</th>
+  </tr>
+  <tr>
+    <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
+    <td>git stash</td>
+    <td>Creates a new branch.</td>
+  </tr>
+   <tr>
+    <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
+    <td>git stash pop</td>
+    <td>Applies the most recent stash and discards it.</td>
+  </tr>
+       </tr>
+   <tr>
+    <td><img src="/path/to/another/image.jpg" alt="[Another image description]"></td>
+    <td>git stash list</td>
+    <td>Lists all available stashes</td>
+  </tr>
+  </table>
+
