@@ -1,4 +1,4 @@
-<h1>Git made way EASY !</h1>
+<h1>Git Commands Made Easy. !</h1>
 <table>
   <tr>
     <th>Code</th>
